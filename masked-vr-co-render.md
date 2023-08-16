@@ -13,3 +13,9 @@ It is important that the server's rendering mask has the ability to adjust itsel
 
 In theory the mask could be done in the border of the image with 2 colors, it could either mark the image where the server hasn't rendered if there are more details needed
 could be binary packets
+
+Example Mask
+![](example-mask.svg) 
+
+Example Image
+![](example-image.svg) 
