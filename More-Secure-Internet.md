@@ -1,9 +1,11 @@
+## [https://github.com/alekcunn/aleks-open-ideas/issues/1](further discussion in issues)
 
-#Intro
+
+# Intro
 I find it troubling how our major infrastructure can be attacked and no progress has been made, government or corporate, to remediate (Colonia Pipeline 2021)
 I have come up with a proposal that may help us better protect the american people on the internet without sacrificing our right to privacy.
 
-#Description
+# Description
 There are 3 parts to this proposal
 1. The user has a local data center that holds the users client-side encrypted internet cache. This is needs to be a voluntary service where the user is able to pick the service provider
 There also needs to be an audit process. If a user requests their data be deleted they need to be able to prove it. My inital idea was to use a MD5 hash where a porting of the file is omitted from 
