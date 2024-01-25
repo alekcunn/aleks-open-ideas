@@ -1,4 +1,4 @@
-## [https://github.com/alekcunn/aleks-open-ideas/issues/1](further discussion in issues)
+## [further discussion in issues](https://github.com/alekcunn/aleks-open-ideas/issues/1)
 
 
 # Intro
