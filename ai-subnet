@@ -1,0 +1,24 @@
+# AI Subnet IPv6
+
+This design is intended to seperate the AI side of the net from the human side of the net, in order to safe-guard the internet from rogue AI swarms, and to benefit the AI by allowing them to utilize ip numbering patterns to identify other AI agents, and also using multi-cast to find other agents.
+
+## DNS
+AI agents could use DNS that is either shared or segregated from the overall global internet in order for agents to find services provided.
+An example would be contoso.com providing an AI agent that they allow to act as a sales person selling cars. The dns server would provide records indicating where to find the agent.
+
+## Multicasting
+
+Agents would also be able to find local agents through multicasting on the AI network. They can either use this channel for discovery, or literally send a prompt to everyone. This would make it easier for agents who dont know who to contact for a given prompt.
+
+
+# Gateways
+The AI would be confined by gateway policies. This helps prevent swarms, and rogue AI. The gateway can limit the AI to local only prompts, or prevent multicasting. Vice versa, it can enable AI to multicast, and limit who receives those prompts.
+
+# Tool
+The point is complete segregation. In order for agents to access the world wide web as it is today, or contact local hosts that aren't AI agents, they would need to use a tool.
+
+http_request
+local_command
+etc
+
+Then the users can limit how the tools can be used
